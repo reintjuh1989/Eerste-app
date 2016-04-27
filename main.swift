@@ -14,7 +14,7 @@
 let MIN_WAARDE = 1
 
 // De maximale waarde die de gebruiker kan kiezen.
-let MAX_WAARDE = 1000000
+let MAX_WAARDE = 1000
 
 
 // Op de inhoud van deze variabele wordt getest:
